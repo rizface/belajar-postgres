@@ -1,4 +1,4 @@
-****## Belajar POSTGRE SQL
+![postgresql](https://www.postgresql.org/media/img/about/press/elephant.png)
 
 ### CREATE DATABASE
 ```sql
